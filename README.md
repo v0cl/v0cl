@@ -30,15 +30,17 @@ I'm **Ibraheem Masood**, a dedicated and passionate **Network Engineer** and **C
 
 <h2 id="current_endeavors"> Current Endeavors </h3>
 
-👉 Actively engaged in **Advanced Persistent Threat (APT) emulation** and defensive strategies.
+<img width="25%" align='right' src="https://github.com/user-attachments/assets/9c826dd0-fd72-49ba-af60-e79f64344f59">
 
-👉 Contributing to **open-source security tools** and frameworks.
+🚀 Actively engaged in **Advanced Persistent Threat (APT) emulation** and defensive strategies.
 
-👉 Expanding expertise in **DevSecOps practices** and automating security workflows.
+🛠️ Contributing to **open-source security tools** and frameworks.
 
-👉 Participating in **bug bounty programs** and security research initiatives.
+🌐 Expanding expertise in **DevSecOps practices** and automating security workflows.
 
-👉 Currently advancing skills in **Web App Penetration Testing** and **Blockchain Security**.
+🔍 Participating in **bug bounty programs** and security research initiatives.
+
+📚 Currently advancing skills in **Industrial Control Systems (ICS) Security** and **Blockchain Security**.
 
 ---
 
@@ -81,10 +83,24 @@ I'm **Ibraheem Masood**, a dedicated and passionate **Network Engineer** and **C
 ---
 
 <h2 id="github_metrics" align=''>GitHub Metrics 👨‍💻</h2>
- 
-  [![Your_Username's GitHub stats](https://github-readme-stats.vercel.app/api?username=v0cl&theme=vision-friendly-dark&bg_color=00000000&hide_border=true&custom_title=My%20GitHub%20Overview)](https://github.com/anuraghazra/github-readme-stats)
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=v0cl)](https://git.io/streak-stats) 
- <p align="left"><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=v0cl&layout=compact&theme=vision-friendly-dark&bg_color=00000000&hide_border=true" width="450" alt="Top Languages Card" /></a></p>
+
+<div align="center">
+  <!-- GitHub Streak - Positioned vertically "in front" (above) the other two -->
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=v0cl&theme=dark&card_width=450&bg_color=00000000&hide_border=true" alt="GitHub Streak" />
+  </a>
+</div>
+<br> <!-- Adds a line break for spacing between the streak and the other stats -->
+
+<div align="center">
+  <!-- GitHub Stats and Top Languages - Positioned side-by-side below the streak -->
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=v0cl&theme=vision-friendly-dark&bg_color=00000000&hide_border=true&custom_title=My%20GitHub%20Overview" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=v0cl&layout=compact&theme=vision-friendly-dark&bg_color=00000000&hide_border=true" width="450" alt="Top Languages Card" />
+  </a>
+</div>
 
 <br><br>
 
