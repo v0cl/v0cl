@@ -83,7 +83,7 @@ I'm **Ibraheem Masood**, a dedicated and passionate **Network Engineer** and **C
 <h2 id="github_metrics" align=''>GitHub Metrics 👨‍💻</h2>
  
   [![Your_Username's GitHub stats](https://github-readme-stats.vercel.app/api?username=v0cl&theme=vision-friendly-dark&bg_color=00000000&hide_border=true&custom_title=My%20GitHub%20Overview)](https://github.com/anuraghazra/github-readme-stats)
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats) 
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=v0cl)](https://git.io/streak-stats) 
  <p align="left"><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=v0cl&layout=compact&theme=vision-friendly-dark&bg_color=00000000&hide_border=true" width="450" alt="Top Languages Card" /></a></p>
 
 <br><br>
