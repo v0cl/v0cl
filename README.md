@@ -83,7 +83,7 @@ I'm **Ibraheem Masood**, a dedicated and passionate **Network Engineer** and **C
 <h2 id="github_metrics" align=''>GitHub Metrics 👨‍💻</h2>
  
   [![Your_Username's GitHub stats](https://github-readme-stats.vercel.app/api?username=v0cl&theme=vision-friendly-dark&bg_color=00000000&hide_border=true&custom_title=My%20GitHub%20Overview)](https://github.com/anuraghazra/github-readme-stats)
-  [![GitHub Streak](https://streak-stats.demolab.com?user=[YOUR_USERNAME]&theme=dark&card_width=450&bg_color=00000000&hide_border=true)](https://git.io/streak-stats) 
+  [![GitHub Streak](https://streak-stats.demolab.com?user=v0cl&theme=dark&card_width=450&bg_color=00000000&hide_border=true)](https://git.io/streak-stats) 
  <p align="left"><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=v0cl&layout=compact&theme=vision-friendly-dark&bg_color=00000000&hide_border=true" width="450" alt="Top Languages Card" /></a></p>
 
 <br><br>
@@ -117,5 +117,5 @@ I'm **Ibraheem Masood**, a dedicated and passionate **Network Engineer** and **C
 <h2 id="my_tech_stack">My Core Tech Stack & Toolkit</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=arch,linux,bash,git,github,py,vscode,debian,kali,linkedin,netlify,obsidian,ubuntu,windows,aws,azure,docker,kubernetes,jenkins,ansible,terraform,splunk,elk,snort,suricata,nmap,burp,metasploit,wireshark,ghidra,radare,c,cpp,go,java,js,html,css,react,node,mongodb,express,python,powershell,cisco,compTIA,owasp" />
+  <img src="https://skillicons.dev/icons?i=arch,linux,bash,git,github,py,vscode,debian,kali,linkedin,netlify,obsidian,ubuntu,windows,dockers,nmap,burp,metasploit,wireshark,c,go,js,html,css,python,php,powershell,cisco,compTIA,owasp" />
 </div>
