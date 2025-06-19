@@ -30,8 +30,6 @@ I'm **Ibraheem Masood**, a dedicated and passionate **Network Engineer** and **C
 
 <h2 id="current_endeavors"> Current Endeavors </h3>
 
-<img width="25%" align='right' src="https://github.com/user-attachments/assets/9c826dd0-fd72-49ba-af60-e79f64344f59">
-
 🚀 Actively engaged in **Advanced Persistent Threat (APT) emulation** and defensive strategies.
 
 🛠️ Contributing to **open-source security tools** and frameworks.
