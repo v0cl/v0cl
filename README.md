@@ -84,7 +84,7 @@ I'm **Ibraheem Masood**, a dedicated and passionate **Network Engineer** and **C
  
   [![Your_Username's GitHub stats](https://github-readme-stats.vercel.app/api?username=v0cl&theme=vision-friendly-dark&bg_color=00000000&hide_border=true&custom_title=My%20GitHub%20Overview)](https://github.com/anuraghazra/github-readme-stats)
   [![GitHub Streak](https://streak-stats.demolab.com?user=[YOUR_USERNAME]&theme=dark&card_width=450&bg_color=00000000&hide_border=true)](https://git.io/streak-stats) 
- <p align="left"><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_USERNAME]&layout=compact&theme=vision-friendly-dark&bg_color=00000000&hide_border=true" width="450" alt="Top Languages Card" /></a></p>
+ <p align="left"><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=v0cl&layout=compact&theme=vision-friendly-dark&bg_color=00000000&hide_border=true" width="450" alt="Top Languages Card" /></a></p>
 
 <br><br>
 
@@ -95,7 +95,7 @@ I'm **Ibraheem Masood**, a dedicated and passionate **Network Engineer** and **C
 
 <p align="center">If my work or journey resonates with you, consider a small gesture of support:</p>
 
-<p align="center"><img src="" width="80%" height="auto" alt="Buy Me A Coffee Placeholder"/></p>
+<p align="center"><img src="https://github.com/v0cl/v0cl/blob/main/patreon.png?raw=true" width="80%" height="auto" alt="Buy Me A Coffee Placeholder"/></p>
 
 <p align="center"><a href="https://www.patreon.com/c/v0cl"><img  src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee Badge"/></a></p>
 
