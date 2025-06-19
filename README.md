@@ -84,12 +84,6 @@ I'm **Ibraheem Masood**, a dedicated and passionate **Network Engineer** and **C
 
 <h2 id="github_metrics" align=''>GitHub Metrics 👨‍💻</h2>
 
-<div align="center">
-  <!-- GitHub Streak - Positioned vertically "in front" (above) the other two -->
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=v0cl&theme=dark&card_width=450&bg_color=00000000&hide_border=true" alt="GitHub Streak" />
-  </a>
-</div>
 <br> <!-- Adds a line break for spacing between the streak and the other stats -->
 
 <div align="center">
@@ -102,7 +96,7 @@ I'm **Ibraheem Masood**, a dedicated and passionate **Network Engineer** and **C
   </a>
 </div>
 
-<br><br>
+<br>
 
 <h2 id="connect_support" align=''> Connect & Support⚡️</h2>
 
