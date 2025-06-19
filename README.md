@@ -8,7 +8,7 @@
 
 ### 🧰 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=arch,linux,bash,git,github,py,vscode,debian,bots,docker,html,kali,linkedin,netlify,obsidian,replit,twitter,ubuntu,windows," />
+  <img src="https://skillicons.dev/icons?i=arch,linux,bash,git,github,py,vscode,debian,kali,linkedin,netlify,obsidian,ubuntu,windows," />
 </p>
 
 ---
